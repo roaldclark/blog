@@ -1,0 +1,39 @@
+head:
+  favicon:
+    ico: favicon.ico
+    small: favicon-16x16.png
+    medium: favicon-32x32.png
+    apple_touch_icon: apple-touch-icon.png
+    safari_pinned_tab: safari-pinned-tab.svg
+
+navbar:
+  sitename: Roald Clark's Blog
+  menu:
+    - name: 首页
+      url: /
+    - name: 标签
+      url: /tags/
+    - name: 归档
+      url: /archives/
+    - name: 关于
+      url: /about/
+    - name: 订阅
+      url: /atom.xml
+
+cover:
+  sitename: Roald Clark's Blog
+  description: 若批评不自由，则赞美无意义
+
+style:
+  color:
+    main_color: '#000000'
+ 
+
+meta:
+  author:
+    name: Roald Clark
+    url: https://roaldclark.github.io/
+  copyright:
+    enable: true
+    custom_text:
+      - '本博客所有的原创文章，均采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可协议。'
