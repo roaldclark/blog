@@ -12,6 +12,10 @@ copyright: false
 
 我致力于推广自由软件运动并推动社会变革。
 
+喜好使用 Linux、艺术、平面设计、骑行和诗歌。
+
+厌恶不卫生、吸烟和喝酒。
+
 如果你打算联络我，请通过以下方式：
 
 * Email: roaldclark@gmail.com
