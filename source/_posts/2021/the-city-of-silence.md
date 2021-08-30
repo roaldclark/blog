@@ -1,10 +1,10 @@
 ---
-title: 每周转载：寂静之城
+title: 寂静之城
 date: 2021-05-09 14:02:58
 tags:
-  - 转载
   - 中国
   - 思考
+  - 极权
 categories: 转载
 copyright: false
 ---
