@@ -21,6 +21,6 @@ jobs:
         run: npm install
       - name: Deploy Hexo
         run: |
-          git clone https://github.com/roaldclark/hexo-theme-cards.git themes/cards
+          git clone https://github.com/roaldclark/hexo-theme-ayer.git themes/ayer
           npm run-script build
           npm run-script deploy
