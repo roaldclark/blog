@@ -1,9 +1,9 @@
 ---
-title: 每周转载：莫犯傻，贪蝇头
+title: 莫犯傻，贪蝇头
 date: 2021-05-16 21:02:28
 tags:
-  - 转载
   - 思考
+  - 隐私
 categories: 转载
 copyright: false
 ---
