@@ -103,6 +103,9 @@ Adobe Illustrator 则主要用于处理矢量图。
 
 新版本所建立的配置档案大多情况是不被旧版本所兼容的。
 
-### 『使用 Autodesk 提供的卸载工具』
+### 『移除 Autodesk 产品』
 
-这是无法完全卸载的，要达成较为干净的卸载，请使用 [Geek Uninstaller](https://geekuninstaller.com) 工具。
+要达成较为干净的卸载，请严格参照以下内容进行操作：
+
+1. [删除 Autodesk 软件](https://www.autodesk.com.cn/support/download-install/individuals/manage/remove-autodesk-software)。
+2. [完全卸载](https://knowledge.autodesk.com/zh-hans/search-result/caas/sfdcarticles/sfdcarticles/CHS/Clean-uninstall.html)。
